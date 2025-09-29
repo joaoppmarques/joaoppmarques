@@ -14,7 +14,7 @@
 
 Linguagens & Frameworks: Python, SQL, PySpark
 
-Cloud & Data: Azure, Databricks
+Cloud & Data: Azure, Databricks, Power Platform
 
 BI & Visualização: Power BI, Excel/VBA
 
@@ -28,19 +28,10 @@ Atuo na construção e governança de infraestrutura de dados de tecnologia, cri
 
 
 
-🛠️ Projetos em destaque
+🛠️ Projeto em destaque
 
-TCC – Impactos macroeconômicos no setor automotivo brasileiro (1996–2023)
+TCC – Correlação entre indicadores macroeconômicos e mercado automotivo brasileiro por meio de análise fatorial (2025)
 
-Dashboards em Power BI para análise de performance
-
-Automação de processos e ETL em Azure + Databricks
-
-
-
-🌱 Sempre aprendendo
-
-Meu foco está em evoluir continuamente, explorando as possibilidades de integração entre engenharia de dados, ciência de dados e business intelligence.
 
 <!--
 **joaoppmarques/joaoppmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
